@@ -8,7 +8,7 @@
 
 ### 📌 Project Topic
 
-  🚧 Topic to be announced
+🚧 Topic to be announced
 
 ---
 
@@ -17,14 +17,14 @@
 <table>
   <tr>
     <td align="center">
-        <img src="https://github.com/ghost.png" width="100px"/><br/>
-        <b>곽철호</b><br/>
-        <sub>Kwak Cheol-ho</sub>
+      <img src="https://github.com/ghost.png" width="100px"/><br/>
+      <b>곽철호</b><br/>
+      <sub>Kwak Cheol-ho</sub>
     </td>
     <td align="center">
       <img src="https://github.com/ghost.png" width="100px"/><br/>
       <b>Enkhbayar</b><br/>
-      <b>Enkhbayar</b><br/>
+      <sub>Enkhbayar</sub>
     </td>
     <td align="center">
       <img src="https://github.com/ghost.png" width="100px"/><br/>
@@ -44,37 +44,37 @@
 ## 📋 Commit Convention
 
 ### Format
-```
-[INITIAL] type: message
-```
+
+<pre><code>[INITIAL] type: message</code></pre>
 
 ### Member Initials
 
-| Name | Initial |
-|:---:|:---:|
-| Kwak Cheol-ho | `[KCH]` |
-| Enkhbayar | `[EB]` |
-| Jin Hyeong-ju | `[JHJ]` |
-| Jang Si-young | `[JSY]` |
+<table>
+  <tr><th>Name</th><th>Initial</th></tr>
+  <tr><td>Kwak Cheol-ho</td><td><code>[KCH]</code></td></tr>
+  <tr><td>Enkhbayar</td><td><code>[EB]</code></td></tr>
+  <tr><td>Jin Hyeong-ju</td><td><code>[JHJ]</code></td></tr>
+  <tr><td>Jang Si-young</td><td><code>[JSY]</code></td></tr>
+</table>
 
 ### Commit Types
 
-| Type | Description |
-|:---:|:---|
-| `feat` | Add a new feature |
-| `fix` | Fix a bug |
-| `docs` | Update documentation |
-| `style` | Code formatting, missing semicolons, etc. (no logic change) |
-| `refactor` | Refactor existing code |
-| `chore` | Miscellaneous tasks |
+<table>
+  <tr><th>Type</th><th>Description</th></tr>
+  <tr><td><code>feat</code></td><td>Add a new feature</td></tr>
+  <tr><td><code>fix</code></td><td>Fix a bug</td></tr>
+  <tr><td><code>docs</code></td><td>Update documentation</td></tr>
+  <tr><td><code>style</code></td><td>Code formatting, missing semicolons, etc. (no logic change)</td></tr>
+  <tr><td><code>refactor</code></td><td>Refactor existing code</td></tr>
+  <tr><td><code>chore</code></td><td>Miscellaneous tasks</td></tr>
+</table>
 
 ### Examples
-```
-[KCH] feat: add data preprocessing module
+
+<pre><code>[KCH] feat: add data preprocessing module
 [EB] fix: resolve model training error
 [JHJ] docs: update README
-[JSY] refactor: improve code structure
-```
+[JSY] refactor: improve code structure</code></pre>
 
 ---
 
