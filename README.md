@@ -22,7 +22,7 @@
       <sub>Kwak Cheol-ho</sub>
     </td>
     <td align="center">
-      <img src="https://github.com/ghost.png" width="100px"/><br/>
+      <img src="https://github.com/enkhbayar123.png" width="100px"/><br/>
       <b>Enkhbayar</b><br/>
       <sub>Enkhbayar</sub>
     </td>
