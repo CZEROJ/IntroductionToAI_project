@@ -1,6 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27945024/README.md)
-# IntroductionToAI_project
-Introduction to AI project
 # Introduction to AI
 
 **Team project repository · 4 members**
@@ -14,12 +11,32 @@ We are a team of four students exploring concepts and applications of artificial
 
 ## 👥 Team Members
 
-| | Name | 
-|:---:|:---:|
-| 🟣 | **곽철호** · Kwak Cheol-ho |
-| 🟢 | **Enkhbayar** ·            |
-| 🟠 | **진형주** · Jin Hyeong-ju |
-| https://github.com/CZEROJ.png | **장시영** · Jang Si-young |
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/czeorj">
+        <img src="https://github.com/czeorj.png" width="80px"/><br/>
+        <sub><b>곽철호</b></sub><br/>
+        <sub>Kwak Cheol-ho</sub>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ghost.png" width="80px"/><br/>
+      <sub><b>Enkhbayar</b></sub><br/>
+      <sub>엥흐바야르</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ghost.png" width="80px"/><br/>
+      <sub><b>진형주</b></sub><br/>
+      <sub>Jin Hyeong-ju</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ghost.png" width="80px"/><br/>
+      <sub><b>장시영</b></sub><br/>
+      <sub>Jang Si-young</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
