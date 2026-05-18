@@ -27,7 +27,7 @@
       <sub>Enkhbayar</sub>
     </td>
     <td align="center">
-      <img src="https://github.com/ghost.png" width="100px"/><br/>
+      <img src="https://github.com/Evanjin4840.png" width="100px"/><br/>
       <b>진형주</b><br/>
       <sub>Jin Hyeong-ju</sub>
     </td>
