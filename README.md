@@ -67,12 +67,10 @@
 | `chore` | Miscellaneous tasks |
  
 ### Examples
-```
-[KCH] feat: add data preprocessing module
+<pre><code>[KCH] feat: add data preprocessing module
 [EB] fix: resolve model training error
 [JHJ] docs: update README
-[JSY] refactor: improve code structure
-```
+[JSY] refactor: improve code structure</code></pre>
  
 ---
  
