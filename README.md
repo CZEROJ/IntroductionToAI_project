@@ -17,11 +17,9 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/CZEROJ">
         <img src="https://github.com/ghost.png" width="100px"/><br/>
         <b>곽철호</b><br/>
         <sub>Kwak Cheol-ho</sub>
-      </a>
     </td>
     <td align="center">
       <img src="https://github.com/ghost.png" width="100px"/><br/>
