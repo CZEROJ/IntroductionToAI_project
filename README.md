@@ -24,7 +24,7 @@
     <td align="center">
       <img src="https://github.com/ghost.png" width="100px"/><br/>
       <b>Enkhbayar</b><br/>
-      <b></b><br/>
+      <b>Enkhbayar</b><br/>
     </td>
     <td align="center">
       <img src="https://github.com/ghost.png" width="100px"/><br/>
@@ -39,24 +39,26 @@
   </tr>
 </table>
 
+---
+
 ## 📋 Commit Convention
- 
+
 ### Format
 ```
 [INITIAL] type: message
 ```
- 
+
 ### Member Initials
- 
+
 | Name | Initial |
 |:---:|:---:|
 | Kwak Cheol-ho | `[KCH]` |
 | Enkhbayar | `[EB]` |
 | Jin Hyeong-ju | `[JHJ]` |
 | Jang Si-young | `[JSY]` |
- 
+
 ### Commit Types
- 
+
 | Type | Description |
 |:---:|:---|
 | `feat` | Add a new feature |
@@ -65,7 +67,17 @@
 | `style` | Code formatting, missing semicolons, etc. (no logic change) |
 | `refactor` | Refactor existing code |
 | `chore` | Miscellaneous tasks |
- 
+
+### Examples
+```
+[KCH] feat: add data preprocessing module
+[EB] fix: resolve model training error
+[JHJ] docs: update README
+[JSY] refactor: improve code structure
+```
+
+---
+
 <sub>Introduction to AI · Team Project</sub>
- 
+
 </div>
