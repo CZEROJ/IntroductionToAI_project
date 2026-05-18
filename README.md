@@ -1,6 +1,6 @@
 <div align="center">
 
-# Introduction to AI
+# Introduction to AI(Develop branch)
 
 **Team project repository · 4 members**
 
