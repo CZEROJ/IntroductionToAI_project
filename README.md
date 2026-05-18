@@ -31,7 +31,7 @@ We are a team of four students exploring concepts and applications of artificial
       <sub>Jin Hyeong-ju</sub>
     </td>
     <td align="center">
-      <img src="https://github.com/CZEROJ" width="80px"/><br/>
+      <img src="https://github.com/CZEROJ.png" width="80px"/><br/>
       <sub><b>장시영</b></sub><br/>
       <sub>Jang Si-young</sub>
     </td>
