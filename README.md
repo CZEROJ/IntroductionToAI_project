@@ -8,7 +8,7 @@
 
 ### 📌 Project Topic
 
-> 🚧 Topic to be announced
+  🚧 Topic to be announced
 
 ---
 
@@ -18,7 +18,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/CZEROJ">
-        <img src="https://github.com/CZEROJ.png" width="100px"/><br/>
+        <img src="https://github.com/ghost.png" width="100px"/><br/>
         <b>곽철호</b><br/>
         <sub>Kwak Cheol-ho</sub>
       </a>
@@ -26,7 +26,7 @@
     <td align="center">
       <img src="https://github.com/ghost.png" width="100px"/><br/>
       <b>Enkhbayar</b><br/>
-      <sub>엥흐바야르</sub>
+      <b></b><br/>
     </td>
     <td align="center">
       <img src="https://github.com/ghost.png" width="100px"/><br/>
@@ -34,7 +34,7 @@
       <sub>Jin Hyeong-ju</sub>
     </td>
     <td align="center">
-      <img src="https://github.com/ghost.png" width="100px"/><br/>
+      <img src="https://github.com/CZEROJ.png" width="100px"/><br/>
       <b>장시영</b><br/>
       <sub>Jang Si-young</sub>
     </td>
