@@ -66,14 +66,6 @@
 | `refactor` | Refactor existing code |
 | `chore` | Miscellaneous tasks |
  
-### Examples
-<pre><code>[KCH] feat: add data preprocessing module
-[EB] fix: resolve model training error
-[JHJ] docs: update README
-[JSY] refactor: improve code structure</code></pre>
- 
----
- 
 <sub>Introduction to AI · Team Project</sub>
  
 </div>
